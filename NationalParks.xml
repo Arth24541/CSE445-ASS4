@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Arth24541/CSE445-ASS4/refs/heads/main/NationalParks.xsd">
+
+  <!-- Park 1: Grand Canyon - Rating provided, 3 phones -->
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
@@ -15,6 +17,7 @@
     </Address>
   </NationalPark>
 
+  <!-- Park 2: Yellowstone - Rating provided, 2 phones -->
   <NationalPark Rating="4.8">
     <Name>Yellowstone</Name>
     <Phone>307-344-7381</Phone>
@@ -28,6 +31,7 @@
     </Address>
   </NationalPark>
 
+  <!-- Park 3: Yosemite - No Rating (optional attribute omitted) -->
   <NationalPark>
     <Name>Yosemite</Name>
     <Phone>209-372-0200</Phone>
@@ -40,6 +44,7 @@
     </Address>
   </NationalPark>
 
+  <!-- Park 4: Zion - Rating provided -->
   <NationalPark Rating="4.7">
     <Name>Zion</Name>
     <Phone>435-772-3256</Phone>
@@ -52,6 +57,7 @@
     </Address>
   </NationalPark>
 
+  <!-- Park 5: Rocky Mountain - Rating provided -->
   <NationalPark Rating="4.8">
     <Name>Rocky Mountain</Name>
     <Phone>970-586-1206</Phone>
@@ -64,6 +70,7 @@
     </Address>
   </NationalPark>
 
+  <!-- Park 6: Acadia - Rating provided, 2 phones -->
   <NationalPark Rating="4.9">
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
@@ -77,6 +84,7 @@
     </Address>
   </NationalPark>
 
+  <!-- Park 7: Great Smoky Mountains - Rating provided -->
   <NationalPark Rating="4.5">
     <Name>Great Smoky Mountains</Name>
     <Phone>865-436-1200</Phone>
@@ -89,6 +97,7 @@
     </Address>
   </NationalPark>
 
+  <!-- Park 8: Joshua Tree - No Rating -->
   <NationalPark>
     <Name>Joshua Tree</Name>
     <Phone>760-367-5500</Phone>
@@ -101,6 +110,7 @@
     </Address>
   </NationalPark>
 
+  <!-- Park 9: Olympic - Rating provided -->
   <NationalPark Rating="4.6">
     <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
@@ -113,6 +123,7 @@
     </Address>
   </NationalPark>
 
+  <!-- Park 10: Glacier - Rating provided -->
   <NationalPark Rating="4.9">
     <Name>Glacier</Name>
     <Phone>406-888-7800</Phone>
@@ -125,6 +136,7 @@
     </Address>
   </NationalPark>
 
+  <!-- Park 11: Arches - No Rating -->
   <NationalPark>
     <Name>Arches</Name>
     <Phone>435-719-2299</Phone>
@@ -136,4 +148,5 @@
       <Zip>84532</Zip>
     </Address>
   </NationalPark>
+
 </NationalParks>
